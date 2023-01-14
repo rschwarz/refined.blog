@@ -4590,6 +4590,20 @@
         ],
         "furl": ""
       }
+      {
+            "name": "Hammy Havoc",
+            "url": "https://hammyhavoc.com",
+            "tags": [
+                "music",
+                "software",
+                "hardware",
+                "privacy",
+                "security",
+                "philosophy",
+                "free software"
+            ],
+            "furl": "https://hammyhavoc.com/feed"
+        }
     ]
 }
 

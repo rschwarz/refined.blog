@@ -4614,6 +4614,19 @@
                 "software"
             ],
             "furl": "https://www.vojtechruzicka.com/feed/"
+        },
+        {
+            "name": "Frequently Answered Quantitatively - Robert Schwarz",
+            "url": "https://rschwarz.github.io/",
+            "tags": [
+                "julia",
+                "math",
+                "modeling",
+                "optimization",
+                "python",
+                "visualization"
+            ],
+            "furl": "https://rschwarz.github.io/rss.xml"
         }
     ]
 }
